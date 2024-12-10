@@ -111,10 +111,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ---
 
-## 📝 License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 📧 Contact
 For any inquiries or support, reach out to **Sheri Snehith** at:
