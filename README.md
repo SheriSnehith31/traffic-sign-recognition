@@ -16,21 +16,17 @@ The project aims to classify traffic signs from images accurately, making it a u
 ---
 
 ## 📂 Project Structure
-```
-traffic-sign-recognition/
-├── dataset/                 # Dataset used for training and testing
-├── models/                  # Saved models and architecture files
-├── notebooks/               # Jupyter notebooks for data exploration and experimentation
-├── src/                     # Core implementation files
-│   ├── preprocessing.py     # Preprocessing scripts for images
-│   ├── model.py             # Deep learning model definition
-│   ├── train.py             # Training loop and validation
-│   ├── test.py              # Testing and evaluation scripts
-├── utils/                   # Utility functions for the project
-│   ├── visualizations.py    # Plotting and visualization utilities
-│   ├── metrics.py           # Model performance metrics
-├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
+```TrafficSignClassification/
+│
+├── TrafficSign_Train.py        # Python script for training the traffic sign classification model
+├── TrafficSign_Test.py         # Python script for testing the traffic sign classification model
+├── labels.csv                  # CSV file containing label data for traffic signs
+├── model_trained.h5            # Trained model file in H5 format
+├── model_trained.keras         # Trained model file in Keras format
+├── model_trained.p             # Trained model file in Pickle format
+├── model_trained.pkl           # Trained model file in Pickle format
+└── README.md                   # Project documentation (optional)
+
 ```
 
 ---
