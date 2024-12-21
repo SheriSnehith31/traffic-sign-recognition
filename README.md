@@ -16,9 +16,10 @@ The project aims to classify traffic signs from images accurately, making it a u
 ---
 
 ## 📂 Project Structure
-```TrafficSignClassification/
+```
 
-
+TrafficSignClassification/
+│
 ├── TrafficSign_Train.py        # Python script for training the traffic sign classification model
 ├── TrafficSign_Test.py         # Python script for testing the traffic sign classification model
 ├── labels.csv                  # CSV file containing label data for traffic signs
@@ -27,7 +28,6 @@ The project aims to classify traffic signs from images accurately, making it a u
 ├── model_trained.p             # Trained model file in Pickle format
 ├── model_trained.pkl           # Trained model file in Pickle format
 └── README.md                   # Project documentation (optional)
-
 ```
 
 ---
