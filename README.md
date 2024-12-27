@@ -77,8 +77,8 @@ The project uses a dataset of traffic sign images containing labeled data for tr
 ---
 
 ## 📊 Results
-- **Accuracy**: Achieved an accuracy of **XX%** on the test dataset.
-- **Loss**: Final validation loss: **XX**.
+- **Accuracy**: Achieved an accuracy of **98%** on the test dataset.
+- **Loss**: Final validation loss: **55**.
 
 Sample predictions:
 
